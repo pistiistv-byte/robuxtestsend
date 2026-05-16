@@ -1,0 +1,1 @@
+Ez a verzió nem használ feltöltött/generált profil ikonokat. Csak Roblox userId alapján kapott valódi Roblox headshot URL-t használ.
